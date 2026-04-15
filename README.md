@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=WP-STRIKE" alt="WP-STRIKE PEGASUS Logo" width="150" />
-  <h1>⚡ WP-STRIKE PEGASUS</h1>
+  <img width="1024" height="1024" alt="WhatsApp Image 2026-04-15 at 14 54 27" src="https://github.com/user-attachments/assets/e28d4bf9-519c-4a72-81dd-0b533abfc56f" />
+
+  <h1>WP-STRIKE PEGASUS</h1>
+  
   <p><strong>High-Performance WordPress Security & Optimization Suite</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Version-2.0.0-blue.svg" alt="Version 2.0.0" />
