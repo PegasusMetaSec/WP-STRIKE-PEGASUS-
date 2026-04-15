@@ -23,6 +23,9 @@
 
 > *"Flying faster than threats, striking harder than vulnerabilities."*
 
+<img width="1919" height="784" alt="Screenshot 2026-04-15 225715" src="https://github.com/user-attachments/assets/17f18a5f-7a4a-4923-9900-f082b1afac41" />
+
+
 ### ✨ Fitur Unggulan
 
 | Modul | Deskripsi |
