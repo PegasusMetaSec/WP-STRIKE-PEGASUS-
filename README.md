@@ -38,14 +38,11 @@
 | 📊 **Audit Log** | Catat semua aktivitas admin & user secara detail. |
 | 🌐 **CDN Integration** | Siap pakai dengan Cloudflare, BunnyCDN, dan StackPath. |
 
+---
 
 # 💰 Premium Access – Bayar dengan Bitcoin atau Saweria
 
 Halaman pembayaran sederhana untuk menerima donasi atau akses premium via **Bitcoin** dan **Saweria**.
-
----
-
-## 🔘 Pilih Metode Pembayaran
 
 <p align="center">
   <a href="https://saweria.co/pegasustrading" target="_blank">
@@ -57,12 +54,6 @@ Halaman pembayaran sederhana untuk menerima donasi atau akses premium via **Bitc
   </a>
 </p>
 
----
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="20" height="20"> Bitcoin Address
-
-**Kirim BTC ke alamat berikut:**
-bc1prfu3p2pqqk79xp3xk5tau2kmhv4ddzkqc456nhpzjhmwyrf093jsyp2lrc
 ---
 
 ## 📦 Instalasi
